@@ -8,6 +8,11 @@ cover letter.  Unfortunately the position had already been filled. =(
 [gae]: https://developers.google.com/appengine/
 
 
+## Screenshot
+
+![screenshot](screenshots/full.png)
+
+
 ## Prerequisites
 
 * Install Python 2.7:
